@@ -90,3 +90,5 @@ ENV/
 
 # JetBrains IDE
 .idea
+
+data
